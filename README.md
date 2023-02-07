@@ -1,8 +1,4 @@
 # amCom
-Teste de Nivelamento
 
-Diretórios com os testes e as respostas sobre as questões
+Diretório original com as questões de testes
 
-
-* Simone Kasama Nakata	
-* Desevolvedora Pleno PHP	
